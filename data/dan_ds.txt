@@ -1,0 +1,8 @@
+Dan Brown
+Data Scientist — 4 years
+dan@data.org
+
+Experience:
+2017-09 - 2021-12 Data Scientist at DataLabs
+- ML with scikit-learn, pandas. SQL ETL
+Skills: Python, Machine Learning, scikit-learn, pandas, SQL, Git

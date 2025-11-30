@@ -1,0 +1,8 @@
+Emma Lee
+Junior Developer — 1 year
+emma@dev.co
+
+Experience:
+2022-07 - 2023-11 Junior Dev at StartUp
+- Basic Python scripts, Flask microservices
+Skills: Python, Flask, REST, Git

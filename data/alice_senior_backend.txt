@@ -1,0 +1,12 @@
+Alice Johnson
+Senior Backend Developer — 5 years
+alice@example.com
+
+Experience:
+2019-01 - 2023-06  Backend Engineer at Acme Corp
+- Built REST APIs with Flask and PostgreSQL.
+- Containerized services with Docker; used Git and CI pipelines.
+- Wrote unit tests with pytest.
+
+Skills:
+Python, Flask, REST, PostgreSQL, Docker, Git, PyTest, AWS EC2

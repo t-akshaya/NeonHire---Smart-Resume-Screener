@@ -1,0 +1,11 @@
+Role: Senior Backend Engineer
+Experience: 4+ years
+
+Required:
+python, flask, rest, api, postgresql, docker, git, pytest
+
+Nice to have:
+aws, ci/cd
+
+Responsibilities:
+Build scalable REST APIs, write tests, deploy containers.

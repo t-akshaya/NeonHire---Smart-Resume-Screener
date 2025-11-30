@@ -1,0 +1,11 @@
+Bob Smith
+Backend Developer — 2 years
+bob.smith@mail.com
+
+Experience:
+2021-06 - 2023-08  Developer at BetaSoft
+- Built Java Spring Boot microservices
+- MySQL databases and Docker containers
+
+Skills:
+Java, Spring, MySQL, Docker, Git

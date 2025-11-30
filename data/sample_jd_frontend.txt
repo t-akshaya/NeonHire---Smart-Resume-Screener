@@ -1,0 +1,11 @@
+Role: Frontend Engineer
+Experience: 2+ years
+
+Required:
+javascript, react, html, css, rest, api, git
+
+Nice to have:
+typescript, testing
+
+Responsibilities:
+Build UI, integrate with backend APIs.

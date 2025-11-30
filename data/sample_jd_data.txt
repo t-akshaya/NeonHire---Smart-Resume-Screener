@@ -1,0 +1,11 @@
+Role: Data Scientist
+Experience: 3+ years
+
+Required:
+python, machine learning, pandas, scikit-learn, sql, git
+
+Nice to have:
+tensorflow, aws
+
+Responsibilities:
+Build models, evaluate metrics, productionize pipelines.

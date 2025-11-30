@@ -1,0 +1,8 @@
+Cathy Ray
+Frontend Engineer — 3 years
+cathy@ui.com
+
+Experience:
+2019-03 - 2022-08 Frontend at UIWorks
+- React apps, API integrations, responsive design
+Skills: JavaScript, React, HTML, CSS, Git

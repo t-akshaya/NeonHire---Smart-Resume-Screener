@@ -1,0 +1,11 @@
+Dan Brown
+Data Scientist — 4 years
+danb@example.org
+
+Experience:
+2018-09 - 2022-12 Data Scientist at DataLabs
+- Built ML pipelines using scikit-learn and pandas
+- Did SQL data extraction and model evaluation
+
+Skills:
+Python, Machine Learning, scikit-learn, pandas, SQL, Git

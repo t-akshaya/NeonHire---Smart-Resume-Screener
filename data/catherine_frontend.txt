@@ -1,0 +1,11 @@
+Catherine Ray
+Frontend Developer — 3 years
+cathy@webmail.com
+
+Experience:
+2020-03 - 2023-04 Frontend Engineer at UIWorks
+- Built React applications and integrated REST APIs
+- Worked on UI/UX and responsive design
+
+Skills:
+JavaScript, React, HTML, CSS, Git

@@ -1,0 +1,3 @@
+Alice – Senior Python Backend Dev
+2018–2024
+Skills: Python, Flask, PostgreSQL, Docker, REST, Git
