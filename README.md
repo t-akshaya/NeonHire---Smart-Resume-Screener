@@ -22,6 +22,27 @@ source venv/bin/activate     # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
 
+## Architecture
+User → Upload JD + Resumes
+          ↓
+   Text Extraction Layer
+ (PDF / DOCX / TXT parser)
+          ↓
+   Universal Skill Extractor
+  (technical + soft + synonyms)
+          ↓
+    Experience Analyzer
+ (years + seniority detection)
+          ↓
+   ATS-style Scoring Engine
+ (skills match + seniority + extras)
+          ↓
+ Explainable Score Generator
+ (analysis + suggestions)
+          ↓
+   Streamlit UI Renderer
+ (cards + badges + scorebars)
+
 ## Tested On
 -Technical roles (Python/Java/Full-stack)
 -Non-technical roles (Customer Service, Sales, Retail)
